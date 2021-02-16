@@ -1,5 +1,5 @@
 # Optimal-socially-distanced-movie-seating-arrangement
-Offline decision support algorithm for 'strict' socially distanced movie seating arrangement with a goal to maximize the number of people seated in a given movie layout
+Offline decision support algorithm for 'strict' socially distanced movie seating arrangement with a goal to maximize the number of groups/people seated in a given movie layout
 
 1 - represnts available seat
 
