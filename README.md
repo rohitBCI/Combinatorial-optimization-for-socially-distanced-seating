@@ -7,6 +7,7 @@ Offline decision support algorithm for 'strict' socially distanced movie seating
 
 x - occupied seat
 
+Visitor input -> array of number of groups(1-8) arriving at a cinema
 # Social Distance criterion
 1sss1
 
