@@ -16,5 +16,6 @@ ssxss
 
 s - represents the seats blocked due to occupied seat x in a 3x5 grid
 
+# Test Instance
 <img alt="Test Instance" src="images/result.jpg">  
 
